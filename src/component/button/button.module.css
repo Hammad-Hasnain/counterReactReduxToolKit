@@ -1,0 +1,16 @@
+.btn {
+    border-radius: 7px;
+    padding: 10px 20px;
+    border: 2px solid orange;
+    background: transparent;
+    color: orange;
+    font-size: 20px;
+    margin: 20px 10px;
+    box-shadow: 0 0 8px inset;
+    cursor: pointer;
+}
+
+.btn:hover,
+.btn:active {
+    box-shadow: 0 0 8px;
+}
